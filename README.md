@@ -5,4 +5,6 @@ This repository hosts Laravel Code snippets that I use.
 
 2. Enum - Used to fetch Enum values from a DB Column.
 
-3. Enum Filter - Used to filter Enum Values by deleting from an array.
+	2.1 Enum Filter - Used to filter Enum Values by deleting from an array.
+
+3. Laravel Crud Builder
