@@ -1,2 +1,3 @@
-#GOOD BASIC PAKAGES
+# GOOD BASIC PAKAGES
+
 composer require laracasts/generators --dev
